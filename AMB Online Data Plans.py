@@ -1,4 +1,4 @@
-import pandas as pd
+
 print("Welcome to AMB Online Data Plans")
 name = input("What is your name:  ")
 age = int(input("How old are you: "))
